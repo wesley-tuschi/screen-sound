@@ -1,0 +1,15 @@
+/home/redrat/Documentos/C#/bin/Debug/net7.0/C#
+/home/redrat/Documentos/C#/bin/Debug/net7.0/C#.deps.json
+/home/redrat/Documentos/C#/bin/Debug/net7.0/C#.runtimeconfig.json
+/home/redrat/Documentos/C#/bin/Debug/net7.0/C#.dll
+/home/redrat/Documentos/C#/bin/Debug/net7.0/C#.pdb
+/home/redrat/Documentos/C#/obj/Debug/net7.0/C#.csproj.AssemblyReference.cache
+/home/redrat/Documentos/C#/obj/Debug/net7.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/redrat/Documentos/C#/obj/Debug/net7.0/C#.AssemblyInfoInputs.cache
+/home/redrat/Documentos/C#/obj/Debug/net7.0/C#.AssemblyInfo.cs
+/home/redrat/Documentos/C#/obj/Debug/net7.0/C#.csproj.CoreCompileInputs.cache
+/home/redrat/Documentos/C#/obj/Debug/net7.0/C#.dll
+/home/redrat/Documentos/C#/obj/Debug/net7.0/refint/C#.dll
+/home/redrat/Documentos/C#/obj/Debug/net7.0/C#.pdb
+/home/redrat/Documentos/C#/obj/Debug/net7.0/C#.genruntimeconfig.cache
+/home/redrat/Documentos/C#/obj/Debug/net7.0/ref/C#.dll
